@@ -12,7 +12,7 @@
 <br>
 <br>
 
-<strong> this is a website innit </strong>
+<strong> this is a website </strong>
 <br>
 <br>
 <br>
@@ -23,7 +23,7 @@
 
 
 
-<p> List of current shit </p>
+<p> List </p>
 
 
 <ul><li><a href="https://www.youtube.com" target="_blank">Active youtube channel</a><p>i know </p>
