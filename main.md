@@ -26,8 +26,8 @@
 <p> List of current shit </p>
 
 
-<ul><li><a href="https://www.youtube.com/channel/UCvtoOQEfa_6GhWXfeRhrTow" target="_blank">Active youtube channel</a><p>i know it's garbage but i'll post some edits while figuring what to do in life</p>
-</li><li> <a href="https://twitter.com/mcshortfilm" target="_blank">Twitter, pretty inactive atm</a> </li><li><a href="file:///C:/Users/Martin/Desktop/Website%20shit/otherstuff.html" target="_blank">Other stuff</a></li></ul>
+<ul><li><a href="https://www.youtube.com" target="_blank">Active youtube channel</a><p>i know </p>
+</li><li> <a href="https://twitter.com" target="_blank">Twitter</a> </li><li><a href="twitter.com" target="_blank">Other stuff</a></li></ul>
 <br>
 <br>
 <br>
